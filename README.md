@@ -18,7 +18,7 @@ I build responsive, user-friendly web applications with a focus on performance, 
 - 🇬🇧 English
 - 🇺🇦 Ukrainian
 - 🇵🇱 Polish
-- - 🇷🇺 Russian
+- 🇷🇺 Russian
 
 ---
 
