@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Maksym
+# Hi there 👋 I'm Maksym Skubiak
 
 💻 Junior Frontend Developer** specializing in modern web development with **HTML, CSS, JavaScript, TypeScript, and React.
 I build responsive, user-friendly web applications with a focus on performance, accessibility, and clean, maintainable code.
